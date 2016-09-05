@@ -1,0 +1,128 @@
+*{
+  margin: auto;
+  font-family: sans-serif;
+  color: #3c3c3c;
+}
+/*********************** navigation *****************************************/
+nav{
+  background-color: #fff;
+  height: 50px;
+  line-height: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+
+}
+nav ul li a{
+    color: #3c3c3c;
+}
+ul li {
+display : inline;
+padding : 0 4.5em; /* espacer les boutons entre eux */
+text-transform: uppercase;
+}
+
+li :hover{
+  border-bottom:  #F2EF2C solid 2px;
+  padding-bottom: 15px;
+}
+
+ul {
+list-style-type : none; /* supprimer les puces*/
+}
+
+/**************** ligne de démarcation **************************************/
+hr{ /*affiner et donner une transparence*/
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+/****************les titres**************************************************/
+h1{
+text-transform: uppercase;
+
+}
+
+h2.ligne{
+  font-size: 20px;
+  color: #F2EF2C;
+}
+
+h3{
+  line-height: 2em;
+}
+
+/************************************************************************/
+article{
+  width: 80%;
+  height: 31em;
+}
+img{
+  float: left;
+  width: 65%;
+}
+
+a{
+  text-decoration: none;
+/*  color: #fff;*/
+}
+/***************************les classes*********************************/
+.ligne{
+  display: inline;
+  padding-right: 10px;
+}
+
+.top{
+  margin-top: 5%;
+}
+
+.resume{
+margin-left: 720px;
+}
+
+.gauche{
+  margin-right: 720px;
+  margin-left:0;
+}
+
+.droite{
+  float: right;
+}
+
+.btn{
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  margin: 6% 0 0 0px;
+  text-align: center;
+  }
+
+/***********************id des favicones des sites************************/
+  #mj {
+    background-image: url(images/mathilde_jacon/ico.ico);
+    background-repeat: no-repeat;
+  }
+
+  #k {
+    background-image: url(images/kalios/favicon.png);
+    background-repeat: no-repeat;
+  }
+
+  #s {
+    background-image: url(images/spoon/favicon.png);
+    background-repeat: no-repeat;
+    width: 32%;
+    margin-top: 13%;
+  }
+
+/***********************id du lien vers le haut****************************/
+  #haut{
+    text-transform: uppercase;
+    font-weight: bolder;
+    height: 100px;
+    width: 152px;
+    margin-top: -3%;
+      }

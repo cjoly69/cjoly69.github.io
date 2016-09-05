@@ -1,0 +1,75 @@
+body{
+  font-family: Josefin Sans, sans-serif;
+}
+
+nav{
+  line-height: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  width: 100%;
+
+}
+nav ul li a{
+  color: #3c3c3c;
+  text-decoration: none;
+}
+
+ul li {
+  display : inline;
+  padding: 2em 112px;/* espacer les boutons entre eux */
+  text-transform: uppercase;
+  /*height: 222px;*/
+  width: 317px;
+}
+
+li{
+  height: 222px;
+}
+
+li:hover{
+  background-color: #fbf9f8;
+  height: 222px;
+  width: 317px;
+}
+
+ul {
+list-style-type : none; /* supprimer les puces*/
+}
+
+video#bgvid {
+  position: fixed; right: 0; bottom: 0;
+  min-width: 100%; min-height: 100%;
+  width: auto; height: auto; z-index: -100;
+}
+
+p{
+  font-size: 20px;
+}
+article{
+  padding: 20px 0 20px 10px;
+}
+
+#logo{
+  margin: 0 auto;
+  width: 12%;
+}
+
+#marble{
+  background-image: url("../images/kalios/marble.jpg");
+  background-repeat: no-repeat;
+  width: 95%;
+  padding: 0;
+  position: relative;
+  margin: 80vh 2.5vw 0 2.5vw;
+}
+
+.image{
+  display: inline-block;
+  height: auto;
+  margin: 46px;
+  width: 200px;
+}
+
+.galerie{
+width: 100%;
+}

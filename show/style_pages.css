@@ -1,0 +1,162 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Lato;
+  color: #000;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style-type: none;
+}
+
+header{
+  width: 100%;
+  height: 100vh;
+
+}
+
+body{
+  width: 100%;
+  height:200px;
+}
+
+p, span{
+  color: #fff;
+}
+
+.logo{
+  margin: auto;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  margin-top: -122px;
+  -webkit-transform-origin: center bottom;
+  transform-origin: center bottom;
+}
+
+.logo-link{
+  width: 285px;
+  height: 204px;
+  display: block;
+  background-size: 135px 25px;
+  margin: auto;
+}
+
+.show{
+  width: 100%;
+  background-color: #2e91c7;
+
+}
+
+.image{
+  display: inline-block;
+  width: 39%;
+  margin: 5% 5%;
+}
+
+.centrer{
+  margin: 0 auto;
+  width: 90%;
+  /*padding: 3%;*/
+}
+
+.roundedDiv{
+  display: inline-block;
+  width: 234px;
+  height: 234px;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  margin: 6%;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #ff804f;
+}
+
+.text{
+    font-size: 19px;
+    padding: 20px 0 23px;
+}
+
+.item-type {
+    font-size: 23px;
+    margin-bottom: 18px;
+    line-height: 1.3;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.join-item-more {
+    overflow: hidden;
+    border-radius: 50%;
+  }
+
+.join-item-more-text {
+    display: block;
+    font-size: 11px;
+    position: absolute;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 100%;
+    border-top: 1px dashed #fff;
+    padding-top: 15px;
+    height: 61px;
+    box-sizing: border-box;
+    -webkit-transition: background-color 0.5s ease, color 0.5s ease;
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.join-item-bg, .join-item-more {
+    display: block;
+  /*  position: absolute;*/
+    margin-top: 0;
+    margin-left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#lg {
+  margin-left: 25%;
+  margin-bottom: 4%;
+}
+
+#top{
+  top: 0;
+  width: 103px;
+  height: 79px;
+  margin-left: 46%;
+  background-image: url("../images/spoon/acc.png");
+}
+
+#right{
+  margin-top: 40vh;
+  margin-left: 90%;
+  background-image: url("../images/spoon/spo.png");
+  width: 118px;
+  height: 38px;
+  position: absolute;
+  z-index: 1;
+}
+
+#bottom{
+  margin-top: 37%;
+  margin-left: 47%;
+  background-image: url("../images/spoon/kal.png");
+  width: 91px;
+  height: 77px;
+}
+
+#left{
+  background-image: url("../images/spoon/mj.png");
+  width: 100px;
+  height: 51px;
+  margin-top: -25%;
+  position: absolute;
+  z-index: 1;
+}
