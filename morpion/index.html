@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Jeu de morpion</title>
+    <link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8">
+</head>
+
+<body>
+    <h1>Jeu du morpion</h1>
+    <div class="global">
+        <table>
+            <tr>
+                <td onClick="jouer(0)" ><img src="img/vide.png" alt="" /></td>
+                <td onClick="jouer(1)"><img src="img/vide.png" alt="" /></td>
+                <td onClick="jouer(2)"><img src="img/vide.png" alt="" /></td>
+            </tr>
+            <tr>
+                <td onClick="jouer(3)"><img src="img/vide.png" alt="" /></td>
+                <td onClick="jouer(4)"><img src="img/vide.png" alt="" /></td>
+                <td onClick="jouer(5)"><img src="img/vide.png" alt="" /></td>
+            </tr>
+            <tr>
+                <td onClick="jouer(6)"><img src="img/vide.png" alt="" /></td>
+                <td onClick="jouer(7)"><img src="img/vide.png" alt="" /></td>
+                <td onClick="jouer(8)"><img src="img/vide.png" alt="" /></td>
+            </tr>
+        </table>
+        <div class="regles">
+            <div class="inline">
+                <h2>Joueur 1</h2>
+                <img src="img/cake1.png" alt="cake violet" style="margin-right: 5vw;"/>
+            </div>
+            <div class="inline">
+                <h2>Joueur 2</h2>
+                <img src="img/cake2.png" alt="cake rose" />
+            </div>
+            <hr>
+            <div id="joueur">C'est le tour de : </div><br>
+            <div id="decompte"></div>
+        </div>
+    </div>
+    <script type="text/javascript" src="morpion.js" media="screen">
+
+    </script>
+</body>
+
+</html>
