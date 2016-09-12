@@ -1,0 +1,241 @@
+*{
+  /*background-color: #ddd;
+  background: url(airbnb.png) no-repeat;*/
+  margin: auto;
+  font-family: Arimo;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?vvtrsu');
+    src:    url('fonts/icomoon.eot?vvtrsu#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?vvtrsu') format('truetype'),
+        url('fonts/icomoon.woff?vvtrsu') format('woff'),
+        url('fonts/icomoon.svg?vvtrsu#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 2;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+  font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: #484848;
+    background-color: #f5f5f5;
+}
+
+section{
+  display: block;
+  margin-bottom: 100px;
+
+}
+
+img{
+  width: 100%;
+  border: 0;
+  margin: 0;
+  background-repeat: no-repeat;
+
+}
+
+header{
+  margin-top: 0;
+  width: 100%;
+  height: auto;
+  background-image: url(fond_airbnb.jpg);
+}
+
+.icon-airbnb:before {
+    content: "\e900";
+    color: #fff;
+    font-size: 33px;
+    padding: 0 19px;
+}
+
+nav{
+  height: 50px;
+  line-height: 50px;
+}
+nav ul li a{
+    color: #fff;
+}
+
+ul li {
+display : inline;
+padding : 0 1.5em; /* espacer les boutons entre eux */
+
+}
+
+ul {
+font-size: 14px;
+list-style-type : none; /* supprimer les puces*/
+margin-right: 14px;
+float: right;
+}
+
+li:first-child{
+    border: 1px solid white;
+    border-radius: 2px;
+    line-height: 61px;
+    padding: 4px 12px;
+}
+
+a{
+  height: 61px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.text-center{
+  text-align: center;
+}
+.center{
+  margin-top: 115px;
+}
+
+.bolder{
+  font-weight: bolder;
+}
+
+.space{
+  margin-bottom: 30px;
+}
+
+h1{
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 60px;
+  font-weight: 700px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+h2{
+  font-size: 26px;
+  line-height: 1.1;
+}
+
+h3{
+  font-size: 16px;
+}
+
+h4{
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.noborder{
+  border: none;
+}
+
+.play{
+  opacity: 0.5;
+  width: 8%;
+  -webkit-transition-duration: 0.2s;
+transition-duration: 0.2s;
+line-height: 1.43;
+}
+
+.play:hover {
+  opacity: 1;
+}
+
+.search{
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.searchbar{
+  width: 974px;
+  height: 48px;
+  font-size: 14px;
+  color: #484848;
+}
+
+input.where{
+  box-sizing: border-box;
+  width: 373px;
+  height: 47px;
+  padding: 0;
+}
+
+select{
+  background-color: inherit;
+  font-family: inherit;
+  font-size: 14px;
+  width: 146px;
+  height: 44px;
+  padding: 8px 10px;
+}
+.bouton {
+    font-weight: normal;
+    white-space: pre;
+    background-color: #fff;
+    font-family: inherit;
+    font-size: 14px;
+    width: 141px;
+    height: 47px;
+}
+
+#search{
+    background-color: #ff5a5f ;
+    color: #fff;
+    font-weight: bolder;
+    text-transform: capitalize;
+    border: none;
+}
+#search:hover{
+  background-color:#ff7e82;
+}
+
+.contain{
+  width: 1045px;
+}
+
+.resume{
+  width: 300px;
+      height: 268px;
+      vertical-align: top;
+      padding-top: 32px;
+      padding-left: 36px;
+      background-color: #fff;
+}
+
+.galerie{
+  display: inline-block;
+}
+
+.vignette {
+  width: auto;
+}
+
+.marge_droite{
+  margin-right:4%;
+}
+
+.btn{
+  border-radius: 2px;
+  height: 42px;
+  width: 266px;
+  line-height: 50px;
+  margin: 2% 0 0 0px;
+  text-align: center;
+  background-color: #006671;
+}

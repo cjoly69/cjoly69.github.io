@@ -1,0 +1,68 @@
+{
+    "IcoMoonType": "selection",
+    "icons": [
+        {
+            "icon": {
+                "paths": [
+                    "M400.8 12c-142.4 31.2-278.4 137.6-343.2 268.8-101.6 204.8-64.8 432 94.4 591.2 200.8 201.6 519.2 201.6 720 0 201.6-200.8 201.6-519.2 0-720-124-124.8-300-176.8-471.2-140zM595.2 360c179.2 122.4 180.8 124 180.8 152s-1.6 29.6-180.8 152c-153.6 106.4-176.8 116-204.8 90.4-13.6-12-14.4-30.4-14.4-240.8 0-314.4-7.2-309.6 219.2-153.6z"
+                ],
+                "attrs": [
+                    {}
+                ],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "tags": [
+                    "play"
+                ],
+                "grid": 0
+            },
+            "attrs": [
+                {}
+            ],
+            "properties": {
+                "order": 2,
+                "id": 0,
+                "name": "play",
+                "prevSize": 32,
+                "code": 58624
+            },
+            "setIdx": 0,
+            "setId": 2,
+            "iconIdx": 0
+        }
+    ],
+    "height": 1024,
+    "preferences": {
+        "showGlyphs": true,
+        "showQuickUse": true,
+        "showQuickUse2": true,
+        "showSVGs": true,
+        "fontPref": {
+            "prefix": "icon-",
+            "metadata": {
+                "fontFamily": "icomoon"
+            },
+            "metrics": {
+                "emSize": 1024,
+                "baseline": 6.25,
+                "whitespace": 50
+            },
+            "embed": false
+        },
+        "imagePref": {
+            "prefix": "icon-",
+            "png": true,
+            "useClassSelector": true,
+            "color": 16777215,
+            "bgColor": 16777215,
+            "classSelector": ".icon",
+            "height": 32,
+            "columns": 16,
+            "margin": 16,
+            "postfix": "play"
+        },
+        "historySize": 100,
+        "showCodes": true,
+        "gridSize": 16
+    }
+}
