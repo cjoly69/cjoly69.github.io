@@ -1,0 +1,57 @@
+* {
+    font-family: Georgia;
+}
+h1 {
+    color: #D7BD88;
+    text-align: center;
+}
+form {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+img {
+    margin-top: 4%;
+}
+.henri{
+  display: block;
+}
+
+.nains{
+ display: none;
+}
+
+input {
+    border: 1px solid #D7BD88;
+    padding: 1%;
+    line-height: 50px;
+    margin-bottom: 2%;
+    font-size: 20px;
+    color: #59656d;
+}
+div input {
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+span {
+display: none;
+position: absolute;
+font-size: 50px;
+margin: 191px 2px 0 534px;
+color: #D7BD29;
+}
+
+#btn {
+    width: auto;
+    height: auto;
+    background-color: #D7BD88;
+}
+#reponse_vraie {
+  display: none;
+}
+
+#reponse_fausse {
+  display: none;
+}
