@@ -1,107 +1,92 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
+<html>
+  <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <!-- <link rel="icon" href="favicon.ico"> -->
-    <title>Math</title>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto:700" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/ico" href="images/cup-icon.ico" />
 
-</head>
+    <title>Présentation de 3 sites</title>
+  </head>
+  <body>
 
-<body>
-    <!--                  navigation               -->
-    <nav>
-        <div class="header">
-            <button class="js-menu-show header__menu-toggle material-icons">menu</button>
-            <form class="right" action="index.html" method="post">
-                <input id="search" type="texte" name="search" value="Recherche...">
-            </form>
-        </div>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="show/show_mj.html">Mathilde Jacon</a></li>
+          <li><a href="show/show_k.html">Kalios</a></li>
+          <li><a href="show/show_s.html">Spoon</a></li>
+        </ul>
+      </nav>
+    </header>
 
-    </nav>
-    <aside class="js-side-nav side-nav">
-        <nav class="js-side-nav__container side-nav__container">
-            <button class="js-menu-hide side-nav__hide material-icons">close</button>
-            <header class="side-nav__header">
-                Menu
-            </header>
-            <ul class="side-nav__content">
-                <li class="dropdown"><a href="#">Niveaux</a>
-                    <ul class="dropdown-content">
-                        <li><a href="#">Niveau 6e</a></li>
-                        <li><a href="#">Niveau 5e</a></li>
-                        <li><a href="#">Niveau 4e</a></li>
-                        <li><a href="#">Niveau 3e</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#">Classes</a>
-                  <ul class="dropdown-content">
-                      <li><a href="#">5e3</a></li>
-                      <li><a href="#">5e5</a></li>
-                      <li><a href="#">5e7</a></li>
-                      <li><a href="#">3e3</a></li>
-                      <li><a href="#">3e6</a></li>
-                  </ul>
-                </li>
-                <li><a href="#">Chapitres</a></li>
-                <li><a href="#">Télécharger</a></li>
-            </ul>
-        </nav>
-    </aside>
-    <!--             fin de la partie navigation   -->
+    <article>
 
-    <main class="ctn">
-        <h1>Gestionnaire de compétences</h1>
-        <hr>
+        <a href="show/show_mj.html"><h1  class="ligne">Mathilde Jacon</h1></a>
+        <h2  class="ligne">Directrice artistique</h2>
 
-        <!--              champs création               -->
-        <section class="centrer">
-                <form class="" action="" method="">
-                    <input type="text" name="chapitre" value="Titre du nouveau chapitre">
-                    <button type="button" name="button">Créer</button>
-                </form>
 
-            <form class="" action="" method="">
-                <input type="number" name="nbcomp" min="0" value="0">
-                <button type="button" name="button">+ nombre de compétences</button>
-            </form>
-        </section>
+      <hr>
 
-        <!--           fin champs création               -->
+        <a href="show/show_mj.html"><img src="images/mathilde_jacon/accueil.png"></a>
 
-        <section class="centrer">
-            <button class="accordion">Chapitre 1</button>
-            <div class="panel">
-                <label><input type="checkbox" id="cbox1" value="premiere_checkbox"> compréhension1</label><br>
+      <div class="resume">
+        <h2 class="top">Site Portfolio</h2>
+        <h3 class="top">HTML CSS JS</h3>
+        <p class="top">
+          Elle présente ses travaux de conception et création graphique dans un site original avec des animations fluides. L'accueil s'ouvre sur une navigation-menu de forme ronde.
+        </p>
+        <a href="http://www.mathildejacon.com/" title="vers le site">
+          <div class="btn" id="mj">
+          </div>
+        </a>
+      </div>
+    </article>
 
-                <input type="checkbox" id="cbox2" value="deuxieme_checkbox"> <label for="cbox2"> compréhension2</label>
-            </div>
+    <article>
 
-            <button class="accordion">Chapitre 2</button>
-            <div class="panel">
-                <label><input type="checkbox" id="cbox1" value="premiere_checkbox"> compréhension1</label><br>
+        <a href="show/show_k.html"><h1  class="ligne">Kalios</h1></a>
+        <h2  class="ligne">Producteur commerçant d'huile d'olive</h2>
 
-                <input type="checkbox" id="cbox2" value="deuxieme_checkbox"> <label for="cbox2"> compréhension2</label>
-            </div>
 
-            <button class="accordion">Chapitre 3</button>
-            <div class="panel">
-                <label><input type="checkbox" id="cbox1" value="premiere_checkbox"> compréhension1</label><br>
+      <hr>
 
-                <input type="checkbox" id="cbox2" value="deuxieme_checkbox"> <label for="cbox2"> compréhension2</label>
-            </div>
-        </section>
-    </main>
+      <a href="show/show_k.html"><img class="droite" src="images/kalios/accueil.png"></a>
 
-    <script type="text/javascript" src="js/traitement.js"></script>
-    <script src="js/side-nav.js"></script>
+      <div class="resume gauche">
+        <h2 class="top">Site commercial</h2>
+        <h3 class="top">Wordpress</h3>
+        <p class="top">
+          La marque présente à la fois ses produits dans une boutique web et son actualité à travers un blog. Elle a choisit de passer par l'utilisation d'un CMS. J'aime particulièrement le "storytelling" de la partie boutique.
+         </p>
+        <a href="http://mykalios.com/philosophie/" title="vers le site">
+          <div class="btn" id="k">
+          </div>
+        </a>
+      </div>
+    </article>
 
-</body>
+    <article>
 
+        <a href="show/show_s.html"><h1  class="ligne">Spoon</h1></a>
+        <h2  class="ligne">Studio webdesign</h2>
+
+
+      <hr>
+
+      <a href="show/show_s.html"><img src="images/spoon/accueil.png"></a>
+
+      <div class="resume">
+        <h2 class="top">Site entreprise</h2>
+        <h3 class="top">HTML CSS JS Jquery</h3>
+        <p class="top">
+          L'entreprise présente ses travaux et sa philosophie de manière épurée et ludique. De discrètes animations illustrent leurs propos au fil des pages.
+        </p>
+        <a href="http://studio-spoon.co.jp/" title="vers le site">
+          <div class="btn" id="s">
+          </div>
+        </a>
+      </div>
+    </article>
+    <a href="#" class="droite" id="haut">HAUT</a>
+  </body>
 </html>
