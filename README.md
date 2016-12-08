@@ -7,4 +7,4 @@
 * [Jeu de devinettes](https://cjoly69.github.io/jeu-henri-4/h4.html) : DOM JS
 * [Mon projet personnel](https://cjoly69.github.io/pp/index.html) : HTML CSS JS , avec [AJAX](http://cjoly.fr/projet_math_competences/)
 * Défi WordPress [dev69.tech.blog](https://dev69.tech.blog/) [description](https://cjoly69.github.io/defi_wp.html)
-* Projet personnel de blog de partage de visites d'expos [MUSéO](cjoly.fr/museo/)
+* Projet personnel de blog de partage de visites d'expos [MUSéO](http://cjoly.fr/museo/)
