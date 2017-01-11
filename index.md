@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Bienvenue sur ma page de projets
 
-You can use the [editor on GitHub](https://github.com/cjoly69/projets/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cjoly69/projets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Présentation des travaux réalisés pendant ma formation à Simplon Lyon :
+* Copie du site [Airbnb] (https://cjoly69.github.io/airbnb/index.html) intégration **HTML CSS**
+* [Présentation de 3 sites choisis](https://cjoly69.github.io/design/index.html) pour leur design ( imposé : recréer l'ambiance du site + faire ressortir au moins trois caractéristiques ) intégration **HTML CSS**
+* Rendu d'un [site d'information](https://cjoly69.github.io/MEP_canicule/index.html) sur la thématique de la canicule d'après un .txt ( temps limité 3h - une librairie css imposée ) choix de **Bootstrap** - prise en main from scratch
+* Jeu de [morpion](https://cjoly69.github.io/morpion/index.html) : appropriation du **DOM** et des fonctions **JS**
+* [Jeu de devinettes](https://cjoly69.github.io/jeu-henri-4/h4.html) : **DOM JS**
+* [Mon projet personnel](https://cjoly69.github.io/pp/index.html) : **HTML CSS JS** , avec **[AJAX](http://cjoly.fr/projet_math_competences/)**
+* Défi **WordPress** [dev69.tech.blog](https://dev69.tech.blog/) [**DESCRIPTION**](https://cjoly69.github.io/defi_wp.html)
+* Projet personnel **PHP MySql** de blog de partage de visites d'expos [MUSéO](http://cjoly.fr/museo/) avec possibilité de commenter en session connectée et partie administrateur (.htaccess )  pour une mise à jour des articles dynamique depuis un formulaire
