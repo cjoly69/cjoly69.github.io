@@ -1,4 +1,4 @@
-# cjoly69.github.io
+# [cjoly69.github.io](https://cjoly69.github.io/)
 ## Présentation des travaux réalisés pendant ma formation à Simplon Lyon :
 * Copie du site [Airbnb] (https://cjoly69.github.io/airbnb/index.html) intégration **HTML CSS**
 * [Présentation de 3 sites choisis](https://cjoly69.github.io/design/index.html) pour leur design ( imposé : recréer l'ambiance du site + faire ressortir au moins trois caractéristiques ) intégration **HTML CSS**
