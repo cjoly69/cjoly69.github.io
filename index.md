@@ -3,6 +3,9 @@
 ## Présentation des travaux réalisés pendant ma formation à Simplon Lyon :
 
 
+* Jeu de [morpion](https://cjoly69.github.io/morpion/index.html) : appropriation du **DOM** et des fonctions **JS**
+![Morpion](/images/morpion.png)
+
 * Copie du site [Airbnb](https://cjoly69.github.io/airbnb/index.html) intégration **HTML CSS**
 
 ![Airbnb](/images/airbnb.png)
@@ -16,11 +19,6 @@
 * Rendu d'un [site d'information](https://cjoly69.github.io/MEP_canicule/index.html) sur la thématique de la canicule d'après un .txt ( temps limité 3h - une librairie css imposée ) choix de **Bootstrap** - prise en main from scratch
 
 ![Prevention](/images/prevention.png)
-
-
-* Jeu de [morpion](https://cjoly69.github.io/morpion/index.html) : appropriation du **DOM** et des fonctions **JS**
-
-![Morpion](/images/morpion.png)
 
 
 * [Jeu de devinettes](https://cjoly69.github.io/jeu-henri-4/h4.html) : **DOM JS**
