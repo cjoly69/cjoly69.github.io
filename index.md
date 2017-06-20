@@ -2,6 +2,8 @@
 
 ## Présentation des travaux réalisés pendant ma formation à Simplon Lyon :
 
+* Jeu du [snake](https://cjoly69.github.io/snake/index.html)
+![Snake Game](/snake/snake.png)
 
 * Jeu de [morpion](https://cjoly69.github.io/morpion/index.html) : appropriation du **DOM** et des fonctions **JS**
 ![Morpion](/images/morpion.png)
