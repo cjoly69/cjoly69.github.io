@@ -27,6 +27,8 @@
 
 ![Devinettes](/images/devinette.png)
 
+* [Le projet de groupe](http://animus-transismus.tk/accueil) : **PHP, canvas, CSS3**
+![Animus Transismus](/images/at.png) 
 
 * [Mon projet personnel](https://cjoly69.github.io/pp/index.html) : **HTML CSS JS** , avec **[AJAX](http://cjoly.fr/projet_math_competences/)**
 
