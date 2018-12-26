@@ -3,7 +3,7 @@ var img = document.getElementsByClassName('nains');
 var indexQuestion = 0;
 var listeQuestions = [{
     texte: "De quelle couleur est le cheval blanc d'Henri IV ?",
-    reponse: "blanche"
+    reponse: "blanche" || "blanc"
 }, {
     texte: "Combien y a-t-il de nains avec Blanche-Neige ? (chiffre)",
     reponse: "7",
