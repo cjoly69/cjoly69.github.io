@@ -30,7 +30,7 @@
 * Un projet de groupe : **PHP, canvas, CSS3**
 ![Animus Transismus](/images/at.png) 
 
-* [Mon projet personnel](https://cjoly69.github.io/pp/index.html) : **HTML CSS JS** , avec **[AJAX](http://cjoly.fr/projet_math_competences/)**
+* [Mon projet personnel](https://cjoly69.github.io/pp/index.html) : **HTML CSS JS AJAX**
 
 ![Projet math](/images/math.png)
 
