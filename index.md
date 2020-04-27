@@ -27,7 +27,7 @@
 
 ![Devinettes](/images/devinette.png)
 
-* [Le projet de groupe](http://animus-transismus.tk/accueil) : **PHP, canvas, CSS3**
+* Un projet de groupe : **PHP, canvas, CSS3**
 ![Animus Transismus](/images/at.png) 
 
 * [Mon projet personnel](https://cjoly69.github.io/pp/index.html) : **HTML CSS JS** , avec **[AJAX](http://cjoly.fr/projet_math_competences/)**
@@ -40,6 +40,6 @@
 ![Blog WP](/images/wp.png)
 
 
-* Projet personnel **PHP MySql** de blog de partage de visites d'expos [MUSéO](http://cjoly.fr/museo/) avec possibilité de commenter en session connectée et partie administrateur (.htaccess )  pour une mise à jour des articles dynamique depuis un formulaire
+* Projet personnel **PHP MySql** de blog de partage de visites d'expos MUSéO avec possibilité de commenter en session connectée et partie administrateur (.htaccess )  pour une mise à jour des articles dynamique depuis un formulaire
 
 ![Blog Muséo](/images/museo.png)
