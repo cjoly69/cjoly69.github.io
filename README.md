@@ -8,4 +8,4 @@
 * [Jeu de devinettes](https://cjoly69.github.io/jeu-henri-4/h4.html) : **DOM JS**
 * [Mon projet personnel](https://cjoly69.github.io/pp/index.html) : **HTML CSS JS** 
 * Défi **WordPress** [dev69.tech.blog](https://dev69.tech.blog/) [**DESCRIPTION**](https://cjoly69.github.io/defi_wp.html)
-* Projet personnel **PHP MySql** de blog de partage de visites d'expos [MUSéO](http://cjoly.fr/museo/) avec possibilité de commenter en session connectée et partie administrateur (.htaccess )  pour une mise à jour des articles dynamique depuis un formulaire administrateur
+* Projet personnel **PHP MySql** de blog de partage de visites d'expos MUSéO avec possibilité de commenter en session connectée et partie administrateur (.htaccess )  pour une mise à jour des articles dynamique depuis un formulaire administrateur
