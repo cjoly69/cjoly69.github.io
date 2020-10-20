@@ -27,19 +27,7 @@
 
 ![Devinettes](/images/devinette.png)
 
-* Un projet de groupe : **PHP, canvas, CSS3**
-![Animus Transismus](/images/at.png) 
-
 * [Mon projet personnel](https://cjoly69.github.io/pp/index.html) : **HTML CSS JS AJAX**
 
 ![Projet math](/images/math.png)
 
-
-* Défi **WordPress** [dev69.tech.blog](https://dev69.tech.blog/) [**DESCRIPTION**](https://cjoly69.github.io/defi_wp.html)
-
-![Blog WP](/images/wp.png)
-
-
-* Projet personnel **PHP MySql** de blog de partage de visites d'expos MUSéO avec possibilité de commenter en session connectée et partie administrateur (.htaccess )  pour une mise à jour des articles dynamique depuis un formulaire
-
-![Blog Muséo](/images/museo.png)
