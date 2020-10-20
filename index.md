@@ -1,6 +1,6 @@
-# Bienvenue sur ma page de projets
+# Projets Simplon Lyon - Formation Développeur Web - 2016
 
-## Présentation des travaux réalisés pendant ma formation à Simplon Lyon :
+## Présentation des travaux réalisés pendant ma formation :
 
 * Jeu du [snake](https://cjoly69.github.io/snake/index.html)
 ![Snake Game](/snake/snake.png)
